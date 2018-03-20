@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "913344047587",
+    "firebase_url": "https://samplefcmessaging.firebaseio.com",
+    "project_id": "samplefcmessaging",
+    "storage_bucket": "samplefcmessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913344047587:android:58ba2ac09bafe052",
+        "android_client_info": {
+          "package_name": "com.example.sreejithpattery.samplefcmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913344047587-rq264dmg6ul4hmhq7s9u0a5ckrmdg2r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9j11wQMcmghaCfFT3r17zq811UjcMh_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
